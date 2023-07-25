@@ -5,3 +5,9 @@ This is php code. mySql . u can import excel students file but see the columns o
 
 This is perfect for cathing FEE DEFAULTER S
 GOOODLUCK!
+
+Wesite :http://muhammadahmad.epizy.com/login.php
+Username: admin
+Password: admin123
+
+I shall post the code within 48 hours hopefully
